@@ -101,7 +101,19 @@ dotnet clean
 dotnet restore
 dotnet build
 ```
- # Menu
+ # Main Menu
+
+ <img width="1344" height="867" alt="menu-1" src="https://github.com/user-attachments/assets/58d4d587-b664-4565-84dd-64fbd12081f3" />
+
+
+# Menu Add Crew
+
+<img width="1086" height="663" alt="menu-2" src="https://github.com/user-attachments/assets/93a1c786-8da2-4ba9-b763-486913191a25" />
+
+# SQLEXPRESS
+<img width="1944" height="1176" alt="db-1" src="https://github.com/user-attachments/assets/44287f87-ad49-4577-8e30-c0d75c545307" />
+
+
 
 
 ## License
